@@ -1,0 +1,33 @@
+// 
+// Nitrox Demo
+// 
+// (c) 2016 Matt Gallant
+//
+
+start
+
+print Nitrox Demo
+print (c) 2016 Matt Gallant
+
+add 20 + 2
+
+sub 210 - 1
+
+mult 10 * 10
+
+div 100 / 2
+
+var ni = nitrox
+var int = 1
+
+out ni
+out int
+
+input cli = ENTER CORRECT VARIABLE:
+
+compare test --> cli == ni
+if test --> success == Success!
+
+out success
+
+python print("Hello, Nitrox!")
